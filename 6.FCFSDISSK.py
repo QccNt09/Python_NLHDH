@@ -1,7 +1,7 @@
 # Python program to demonstrate
 # FCFS Disk Scheduling algorithm
 
-size = 8
+
 
 def FCFS(arr, head):
 
